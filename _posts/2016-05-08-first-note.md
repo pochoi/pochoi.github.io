@@ -17,3 +17,9 @@ type Point{T}
   y::T
 end
 ```
+
+```R
+plus <- function(x) {
+    x + 1
+}
+```
