@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Chi Po Choi
 tagline:          'Po'
 description:      'PhD student in Statistics at UC Davis'
-url:              http://www.stat.ucdavis.edu/~cpchoi
+url:              pochoi.github.io
 baseurl:          /
 
 author:
   name:           'Chi Po Choi'
-  url:            http://www.stat.ucdavis.edu/~cpchoi
+  url:            pochoi.github.io
 
 paginate:         5
 
