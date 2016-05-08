@@ -3,28 +3,31 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## <i class="fa fa-user"></i> Name in Chinese
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* 蔡志波
 
-There are currently two themes built on Poole:
+## <i class="fa fa-globe"></i> Name in English
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Last name: Choi
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* First name: Chi Po
 
-## Setup
+* All possible variations of my name I can think of:
+  * Chi Po Choi
+  * Choi Chi Po
+  * Chi-Po Choi
+  * C.P. Choi
+  * Chi P. Choi
+  * Chipo Choi
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## <i class="fa fa-envelope"></i> Email
 
-Thanks for reading!
+* cpchoi \at ucdavis \dot edu
+* choi.chi.po \at gmail \dot com
+
+## <i class="fa fa-camera"></i> Pic
+
+![image](../image/po_oak_ridge.png "Po")

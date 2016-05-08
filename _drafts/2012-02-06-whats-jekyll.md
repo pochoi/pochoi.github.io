@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's Jekyll?
+tags:  testing
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
@@ -10,3 +11,15 @@ title: What's Jekyll?
 It's an immensely useful tool and one we encourage you to use here with Hyde.
 
 Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+
+$$E = mc^2$$
+
+\\[\int_0^1 f(x) dx\\]
+
+```julia
+type Hello
+  x::Int64
+end
+```
+
+$1+1=\frac{1}{2}$
