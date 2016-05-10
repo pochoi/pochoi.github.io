@@ -2,6 +2,7 @@
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
       <h1>
+        <p class="fa fa-pie-chart fa-2x" aria-hidden="true"></p>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
@@ -28,19 +29,20 @@
         {% endif %}
       {% endfor %}
 
-      {% if site.github_username %}
-          <a href="https://github.com/{{ site.github_username }}">
-            <i class="fa fa-github"></i>
-          </a>
-      {% endif %}
-
-      {% if site.email %}
-          <a href="mailto:{{ site.email }}">
-            <i class="fa fa-envelope"></i>
-          </a>
-      {% endif %}
-
     </nav>
+
+    <p>
+    {% if site.github_username %}
+      <a href="https://github.com/{{ site.github_username }}">
+        <i class="fa fa-github"></i>
+      </a>
+    {% endif %}
+    {% if site.email %}
+      <a href="mailto:{{ site.email }}">
+        <i class="fa fa-envelope"></i>
+      </a>
+    {% endif %}
+    </p>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>

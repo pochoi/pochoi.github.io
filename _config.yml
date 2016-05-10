@@ -1,3 +1,4 @@
+exclude:          [deploy]
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
