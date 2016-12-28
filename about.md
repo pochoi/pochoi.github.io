@@ -22,4 +22,4 @@ title: About
 
 ## <i class="fa fa-camera"></i> Pic
 
-![image](../image/po_oak_ridge.png "Po")
+![image](../image/po_la.jpg "Po")
