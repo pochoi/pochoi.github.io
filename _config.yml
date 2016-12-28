@@ -2,6 +2,8 @@ exclude:          [deploy]
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+#markdown:         redcarpet
+#highlighter:      pygments
 
 # Permalinks
 permalink:        pretty

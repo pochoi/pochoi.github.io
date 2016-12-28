@@ -78,7 +78,8 @@ plus <- function(x) {
 }
 ```
 
-# What I learnt from the above tests
+## What I learnt from the above tests
+
 * The markdown engin `kramdown` has a better $\LaTeX$ support than `redcarpet`.
 * `kramdown` does not work with the syntax highlighter `pygments` which supports most programming languauges, for example, **Julia**.
 * `rouge` is the choice next to `pygments`. According to the `rouge` development repository on GitHub, `rouge` was updated to support **Julia** on **Nov 17, 2015**. However, the latest release of `rouge` today (May 16, 2016), version 1.10.1, includes updates only up to **Sep 10, 2015**. So, there is no **Julia** syntax highlight if the `rouge` on my computer is just the release version 1.10.1. 
